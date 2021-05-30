@@ -17,7 +17,7 @@ body{
   box-shadow: 5px 5px 5px 20px rgb(243, 98, 219);
 	padding: 30px;
 	border-radius: 20px;
-	margin-top: 50px;
+	margin-top: 150px;
 
 }
 .output{
@@ -33,7 +33,7 @@ body{
   box-shadow: 5px 5px 5px 10px white;
   color: black !important;
   width: fit-content;
-  margin-right: 200px;
+  margin-right: 100px;
   padding: 10px;
   border-radius: 20px;
   margin-left: 50px;
@@ -53,4 +53,19 @@ body{
 .mini_result{
   text-align: center;
 	color: white;
+}
+span{
+  color: red !important;
+  font-weight: bold;
+}
+.final_result{
+  background-color: rgb(77, 41, 74);
+  box-shadow: 5px 5px 5px 20px rgb(77, 41, 74);
+	padding: 10px;
+  font-size: 20px;
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+.final_result b{
+  color: lightpink;
 }
