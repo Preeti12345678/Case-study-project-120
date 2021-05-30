@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto Mono';
+
+}
+.class{
+    font-size: 25px;
+
+}
+.google_lens{
+  width: 50px;
+  height: 50px;
+}
+.test_image_and_result{
+  background-color: rgb(243, 98, 219);
+  box-shadow: 5px 5px 5px 20px rgb(243, 98, 219);
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+
+}
+.output{
+  background-color: white;
+  box-shadow: 5px 5px 5px 10px white;
+  color: black !important;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 20px;
+}
+.output2{
+  background-color: white;
+  box-shadow: 5px 5px 5px 10px white;
+  color: black !important;
+  width: fit-content;
+  margin-right: 200px;
+  padding: 10px;
+  border-radius: 20px;
+  margin-left: 50px;
+}
+.image{
+  border: 10px solid white;
+}
+.footer{
+  background-color: white;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  color: black !important;
+  font-size: 20px;
+  font-weight: bold;
+}
+.mini_result{
+  text-align: center;
+	color: white;
+}
